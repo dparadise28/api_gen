@@ -1,0 +1,46 @@
+{
+	"activation_code": "",
+	"date_created"   : "",
+	"subscribed"     : "",
+	"first_name"     : "",
+	"last_name"      : "",
+	"user_name"      : "index",
+	"activated"      : "",
+	"status"         : "",
+	"phone"          : "",
+	"email"          : "index",
+	"desc"           : "",
+	"cart": {
+		"estimated_order_total": "",
+		"order_subtotal"       : "",
+		"estimated_tax"        : "",
+		"order_number"         : "",
+		"order_total"          : "",
+		"sales_tax"            : "",
+		"items": [{
+			"poster_id": "index",
+			"post_date": "",
+			"end_date" : "index",
+			"image"    : "",
+			"price"    : "index",
+			"type"     : "",
+			"name"     : "index",
+		}]
+	},
+	"order_history"        : [{
+		"billing_last_name": "",
+		"billing_zip_code" : "",
+		"tracking_urls"    : "",
+		"order_status"     : "",
+		"order_date"       : "",
+		"items"            : [{
+			"poster_id": "index",
+			"post_date": "",
+			"end_date" : "index",
+			"image"    : "",
+			"price"    : "index",
+			"type"     : "",
+			"name"     : "index",
+		}]
+	}]
+}

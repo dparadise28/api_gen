@@ -1,0 +1,633 @@
+{
+    "categories": [
+        {
+            "root": "Baby Products",
+            "id": 1,
+            "children": [
+                {
+                    "root": "Health & Baby Care",
+                    "id": 2
+                },
+                {
+                    "root": "Car Seats & Accessories",
+                    "id": 3
+                },
+                {
+                    "root": "Gear",
+                    "id": 4
+                },
+                {
+                    "root": "Baby Toys",
+                    "id": 5
+                },
+                {
+                    "root": "Feeding",
+                    "id": 6
+                },
+                {
+                    "root": "Potty Training",
+                    "id": 7
+                },
+                {
+                    "root": "Nursery",
+                    "id": 8
+                },
+                {
+                    "root": "Strollers",
+                    "id": 9
+                },
+                {
+                    "root": "Diapering",
+                    "id": 10
+                },
+                {
+                    "root": "Baby Stationery",
+                    "id": 11
+                },
+                {
+                    "root": "Pregnancy & Maternity",
+                    "id": 12
+                },
+                {
+                    "root": "Safety",
+                    "id": 13
+                },
+                {
+                    "root": "Bathing & Skin Care",
+                    "id": 14
+                },
+                {
+                    "root": "Gifts",
+                    "id": 15
+                }
+            ]
+        },
+        {
+            "root": "Sports & Outdoors",
+            "id": 16,
+            "children": [
+                {
+                    "root": "Team Sports",
+                    "id": 17
+                },
+                {
+                    "root": "Exercise & Fitness",
+                    "id": 18
+                },
+                {
+                    "root": "Hunting & Fishing",
+                    "id": 19
+                },
+                {
+                    "root": "Leisure Sports & Games",
+                    "id": 20
+                },
+                {
+                    "root": "Action Sports",
+                    "id": 21
+                },
+                {
+                    "root": "Accessories",
+                    "id": 22
+                },
+                {
+                    "root": "Bikes & Scooters",
+                    "id": 23
+                },
+                {
+                    "root": "Snow Sports",
+                    "id": 24
+                },
+                {
+                    "root": "Other Sports",
+                    "id": 25
+                },
+                {
+                    "root": "Racket Sports",
+                    "id": 26
+                },
+                {
+                    "root": "Outdoor Recreation",
+                    "id": 27
+                },
+                {
+                    "root": "Paintball & Airsoft",
+                    "id": 28
+                },
+                {
+                    "root": "Golf",
+                    "id": 29
+                },
+                {
+                    "root": "Boating & Water Sports",
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "root": "Shoes",
+            "id": 31,
+            "children": [
+                {
+                    "root": "Girls'",
+                    "id": 32
+                },
+                {
+                    "root": "Handbags",
+                    "id": 33
+                },
+                {
+                    "root": "Juniors'",
+                    "id": 34
+                },
+                {
+                    "root": "Shoe Care & Cleaning",
+                    "id": 35
+                },
+                {
+                    "root": "Women's",
+                    "id": 36
+                },
+                {
+                    "root": "Men's",
+                    "id": 37
+                },
+                {
+                    "root": "Related Accessories",
+                    "id": 38
+                },
+                {
+                    "root": "Boys'",
+                    "id": 39
+                }
+            ]
+        },
+        {
+            "root": "Electronics",
+            "id": 40,
+            "children": [
+                {
+                    "root": "GPS & Navigation",
+                    "id": 41
+                },
+                {
+                    "root": "Computers & Accessories",
+                    "id": 42
+                },
+                {
+                    "root": "Office Electronics",
+                    "id": 43
+                },
+                {
+                    "root": "Security & Surveillance",
+                    "id": 44
+                },
+                {
+                    "root": "Marine Electronics",
+                    "id": 45
+                },
+                {
+                    "root": "Camera & Photo",
+                    "id": 46
+                },
+                {
+                    "root": "Home Audio & Theater",
+                    "id": 47
+                },
+                {
+                    "root": "Accessories & Supplies",
+                    "id": 48
+                },
+                {
+                    "root": "Car Electronics",
+                    "id": 49
+                },
+                {
+                    "root": "Portable Audio & Video",
+                    "id": 50
+                },
+                {
+                    "root": "Televisions & Video",
+                    "id": 51
+                }
+            ]
+        },
+        {
+            "root": "Beauty",
+            "id": 52,
+            "children": [
+                {
+                    "root": "Skin Care",
+                    "id": 53
+                },
+                {
+                    "root": "Tools & Accessories",
+                    "id": 54
+                },
+                {
+                    "root": "Shaving & Hair Removal",
+                    "id": 55
+                },
+                {
+                    "root": "Hair Care",
+                    "id": 56
+                },
+                {
+                    "root": "Makeup",
+                    "id": 57
+                },
+                {
+                    "root": "Fragrance",
+                    "id": 58
+                },
+                {
+                    "root": "Bath & Body",
+                    "id": 59
+                }
+            ]
+        },
+        {
+            "root": "Tools & Home Improvement",
+            "id": 60,
+            "children": [
+                {
+                    "root": "Electrical",
+                    "id": 61
+                },
+                {
+                    "root": "Heating & Cooling",
+                    "id": 62
+                },
+                {
+                    "root": "Building Supplies",
+                    "id": 63
+                },
+                {
+                    "root": "Kitchen & Bath Fixtures",
+                    "id": 64
+                },
+                {
+                    "root": "Power & Hand Tools",
+                    "id": 65
+                },
+                {
+                    "root": "Hardware",
+                    "id": 66
+                },
+                {
+                    "root": "Mowers & Outdoor Power",
+                    "id": 67
+                },
+                {
+                    "root": "Rough Plumbing",
+                    "id": 68
+                },
+                {
+                    "root": "Safety & Security",
+                    "id": 69
+                },
+                {
+                    "root": "Lamps & Light Fixtures",
+                    "id": 70
+                },
+                {
+                    "root": "Pools, Spas & Supplies",
+                    "id": 71
+                },
+                {
+                    "root": "Appliances",
+                    "id": 72
+                },
+                {
+                    "root": "Painting Tools & Supplies",
+                    "id": 73
+                },
+                {
+                    "root": "Storage & Home Organization",
+                    "id": 74
+                }
+            ]
+        },
+        {
+            "root": "Office Products",
+            "id": 75,
+            "children": [
+                {
+                    "root": "Office & School Supplies",
+                    "id": 76
+                },
+                {
+                    "root": "Office Electronics",
+                    "id": 77
+                },
+                {
+                    "root": "Office Furniture & Lighting",
+                    "id": 78
+                }
+            ]
+        },
+        {
+            "root": "Health & Personal Care",
+            "id": 79,
+            "children": [
+                {
+                    "root": "Personal Care",
+                    "id": 80
+                },
+                {
+                    "root": "Medical Supplies & Equipment",
+                    "id": 81
+                },
+                {
+                    "root": "Diet & Nutrition",
+                    "id": 82
+                },
+                {
+                    "root": "Baby & Child Care",
+                    "id": 83
+                },
+                {
+                    "root": "Household Supplies",
+                    "id": 84
+                },
+                {
+                    "root": "Stationery & Party Supplies",
+                    "id": 85
+                },
+                {
+                    "root": "Health Care",
+                    "id": 86
+                }
+            ]
+        },
+        {
+            "root": "Watches",
+            "id": 87,
+            "children": [
+                {
+                    "root": "Pocket Watches",
+                    "id": 88
+                },
+                {
+                    "root": "Watch Bands",
+                    "id": 89
+                },
+                {
+                    "root": "Sport Watches",
+                    "id": 90
+                },
+                {
+                    "root": "Sports Fan Watches",
+                    "id": 91
+                },
+                {
+                    "root": "Dress Watches",
+                    "id": 92
+                },
+                {
+                    "root": "Casual Watches",
+                    "id": 93
+                },
+                {
+                    "root": "Accessories",
+                    "id": 94
+                }
+            ]
+        },
+        {
+            "root": "Toys & Games",
+            "id": 95,
+            "children": [
+                {
+                    "root": "Learning & Education",
+                    "id": 96
+                },
+                {
+                    "root": "Play Vehicles",
+                    "id": 97
+                },
+                {
+                    "root": "Electronics for Kids",
+                    "id": 98
+                },
+                {
+                    "root": "Action Figures",
+                    "id": 99
+                },
+                {
+                    "root": "Dolls",
+                    "id": 100
+                },
+                {
+                    "root": "Sports & Outdoor Play",
+                    "id": 101
+                },
+                {
+                    "root": "Preschool",
+                    "id": 102
+                },
+                {
+                    "root": "Stuffed Animals & Plush",
+                    "id": 103
+                },
+                {
+                    "root": "Music",
+                    "id": 104
+                },
+                {
+                    "root": "Activities & Amusements",
+                    "id": 105
+                },
+                {
+                    "root": "Construction, Blocks & Models",
+                    "id": 106
+                },
+                {
+                    "root": "Pretend Play & Dress-up",
+                    "id": 107
+                },
+                {
+                    "root": "Kids' Furniture & Room D\u00e9cor",
+                    "id": 108
+                },
+                {
+                    "root": "Arts & Crafts",
+                    "id": 109
+                },
+                {
+                    "root": "Party Supplies",
+                    "id": 110
+                },
+                {
+                    "root": "Games",
+                    "id": 111
+                },
+                {
+                    "root": "Bikes, Skates & Ride-Ons",
+                    "id": 112
+                },
+                {
+                    "root": "Toy Figures & Playsets",
+                    "id": 113
+                },
+                {
+                    "root": "Puzzles",
+                    "id": 114
+                },
+                {
+                    "root": "Hobbies",
+                    "id": 115
+                }
+            ]
+        },
+        {
+            "root": "Home, Garden & Pets",
+            "id": 116,
+            "children": [
+                {
+                    "root": "Pet Supplies",
+                    "id": 117
+                },
+                {
+                    "root": "Home Appliances",
+                    "id": 118
+                },
+                {
+                    "root": "Furniture & D\u00e9cor",
+                    "id": 119
+                },
+                {
+                    "root": "Sewing, Craft & Hobby",
+                    "id": 120
+                },
+                {
+                    "root": "Bedding & Bath",
+                    "id": 121
+                },
+                {
+                    "root": "Kitchen & Dining",
+                    "id": 122
+                },
+                {
+                    "root": "Artwork",
+                    "id": 123
+                },
+                {
+                    "root": "Fresh Flowers & Indoor Plants",
+                    "id": 124
+                },
+                {
+                    "root": "Vacuums, Cleaning & Storage",
+                    "id": 125
+                },
+                {
+                    "root": "Patio, Lawn & Garden",
+                    "id": 126
+                }
+            ]
+        },
+        {
+            "root": "Jewelry",
+            "id": 127,
+            "children": [
+                {
+                    "root": "Loose Gemstones",
+                    "id": 128
+                },
+                {
+                    "root": "Earrings",
+                    "id": 129
+                },
+                {
+                    "root": "Accessories",
+                    "id": 130
+                },
+                {
+                    "root": "Body Jewelry",
+                    "id": 131
+                },
+                {
+                    "root": "Jewelry Sets",
+                    "id": 132
+                },
+                {
+                    "root": "Men's Jewelry",
+                    "id": 133
+                },
+                {
+                    "root": "Engagement Rings",
+                    "id": 134
+                },
+                {
+                    "root": "Necklaces & Pendants",
+                    "id": 135
+                },
+                {
+                    "root": "Rings",
+                    "id": 136
+                },
+                {
+                    "root": "Religious Jewelry",
+                    "id": 137
+                },
+                {
+                    "root": "Brooches & Pins",
+                    "id": 138
+                },
+                {
+                    "root": "Charms",
+                    "id": 139
+                },
+                {
+                    "root": "Bracelets & Anklets",
+                    "id": 140
+                },
+                {
+                    "root": "Wedding & Anniversary",
+                    "id": 141
+                },
+                {
+                    "root": "Children's Jewelry",
+                    "id": 142
+                }
+            ]
+        },
+        {
+            "root": "Clothing",
+            "id": 143,
+            "children": [
+                {
+                    "root": "Kids' & Baby",
+                    "id": 144
+                },
+                {
+                    "root": "Juniors'",
+                    "id": 145
+                },
+                {
+                    "root": "Specialty Apparel",
+                    "id": 146
+                },
+                {
+                    "root": "Young Men's",
+                    "id": 147
+                },
+                {
+                    "root": "Men's",
+                    "id": 148
+                },
+                {
+                    "root": "Accessories",
+                    "id": 149
+                },
+                {
+                    "root": "Women's",
+                    "id": 150
+                }
+            ]
+        },{
+            "root": "Every Thing Else",
+            "id": 151
+        }
+    ]
+}
